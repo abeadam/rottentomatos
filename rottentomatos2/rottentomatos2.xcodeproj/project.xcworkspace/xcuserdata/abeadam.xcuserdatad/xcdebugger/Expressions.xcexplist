@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "-[MovieListViewController tableView:cellForRowAtIndexPath:]:MovieListViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = " [movie objectForKey:@&quot;synopsis&quot;]">
+            </PersistentString>
+            <PersistentString
+               value = "cell.detailTextLabel.text">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[MovieListViewController tableView:numberOfRowsInSection:]:MovieListViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.movies.count">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
